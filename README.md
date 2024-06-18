@@ -1,8 +1,3 @@
----
-title: Square Patterns Loading Component
-description: A lightweight, customizable, and responsive loading component using square patterns.
----
-
 # Square Patterns Loading Component
 
 This project is a simple yet visually appealing loading component created using square patterns. It's designed to be easily integrated into any web application to indicate loading states.
