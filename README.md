@@ -4,7 +4,7 @@ This project is a simple yet visually appealing loading component created using 
 
 ## Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](dot-patterns-loading-26pp.vercel.app).
 
 ## Installation
 
