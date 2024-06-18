@@ -4,7 +4,7 @@ This project is a simple yet visually appealing loading component created using 
 
 ## Demo
 
-Check out the live demo [here](dot-patterns-loading-26pp.vercel.app).
+Check out the live demo [here]([dot-patterns-loading-26pp.vercel.app](https://dot-patterns-loading-26pp.vercel.app)).
 
 
 https://github.com/eraykeskinmac/square-patterns-loading/assets/63066081/37566edd-d87a-4a9d-b3d8-4faf10f526db
